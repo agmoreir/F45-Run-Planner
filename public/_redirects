@@ -1,0 +1,4 @@
+/* /index.html 200
+git add public/_redirects
+git commit -m "Add Netlify redirects for SPA routing"
+git push

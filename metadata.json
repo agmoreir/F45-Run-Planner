@@ -1,0 +1,5 @@
+{
+  "name": "F45 Run Planner",
+  "description": "A simple application for you and your friends to plan running days and track mileage. It includes a motivational quote generator powered by Gemini.",
+  "requestFramePermissions": []
+}
